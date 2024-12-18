@@ -67,16 +67,14 @@ end
 endmodule
 ...
 **RTL LOGIC UP COUNTER**
-![Screenshot (38)](https://github.com/user-attachments/assets/db69df4e-b724-4161-a4a2-b2921654e4cd)
-![Screenshot (40)](https://github.com/user-attachments/assets/eaa84a83-b922-46da-819b-2452679af6e5)
+![Screenshot (38)](https://github.com/user-attachments/assets/e5987aef-25d5-444c-a49e-c2dc1b4ec714)
+
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![Screenshot (39)](https://github.com/user-attachments/assets/fdbec389-f1cd-4c17-9769-ecd8d477bfef)
-![Screenshot (41)](https://github.com/user-attachments/assets/19fdf48e-4995-40ce-8446-d4cce0f0de8a)
+  ![Screenshot (39)](https://github.com/user-attachments/assets/135518a0-b2c3-4112-baff-39c31255edca)
 
 **TRUTH TABLE**
-![Screenshot 2024-12-11 183102](https://github.com/user-attachments/assets/52725080-0080-4828-9b9e-4749d6ba10be)
-![Screenshot 2024-12-11 183130](https://github.com/user-attachments/assets/5868f9fb-4986-4dfa-a2b1-2d93fe79f0ec)
+  ![Screenshot 2024-12-18 221049](https://github.com/user-attachments/assets/291694be-d132-4ded-ba91-c252ab286cb0)
 
 **RESULTS**
 To implement 4 bit synchronous up counter and validate functionality is verified.
