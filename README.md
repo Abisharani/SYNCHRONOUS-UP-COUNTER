@@ -55,17 +55,6 @@ begin
 end
 endmodule
 
- module ex12(out,clk,rst);
-input clk,rst;
-output reg [3:0]out;
-always @ (posedge clk)
-begin
-   if(rst)
-     out<=0;
-   else 
-     out <= out-1;
-end
-endmodule
 ```
 **RTL LOGIC UP COUNTER**
 ![Screenshot (38)](https://github.com/user-attachments/assets/e5987aef-25d5-444c-a49e-c2dc1b4ec714)
