@@ -37,11 +37,12 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-
+```
 Developed by:ABISHA RANI S
 RegisterNumber:24900748
+```
 */
-...
+```
 module ex11(out,clk,rst);
 input clk,rst;
 output reg [3:0]out;
@@ -65,7 +66,7 @@ begin
      out <= out-1;
 end
 endmodule
-...
+```
 **RTL LOGIC UP COUNTER**
 ![Screenshot (38)](https://github.com/user-attachments/assets/e5987aef-25d5-444c-a49e-c2dc1b4ec714)
 
